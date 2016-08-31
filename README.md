@@ -11,6 +11,6 @@ GossipDB is suitable for custom blockchain alike applications storing arbitrary 
 Some examples of applications that can be created using GossipDB:
 * High availability website with offsite replica's
 * A normal virtual currency with blocks and miners
-* A distributed identity system
+* A distributed identity system with partially shared identities
 * A distributed encrypted notary
 * ...
